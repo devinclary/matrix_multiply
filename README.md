@@ -1,4 +1,4 @@
-h1>Description</h1>
+<h1>Description</h1>
 <p>A school programming assignment in the C++ programming language. The file matrix_multiply.cpp creates two random matrices using dynamically and statically allocated two-dimensional arrays, then demonstrates an algorithm to multiply them</p>
 ---------------------------------------------------------
 <h2>Contains:</h2>
