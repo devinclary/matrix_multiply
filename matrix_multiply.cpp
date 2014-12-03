@@ -110,6 +110,7 @@ int main(void){
 
 
 	cout<<"Dynamic Multiplication: "<<'\n'<<endl;
+	cout<<endl;
 	cout<<"Matrix A: "<<endl;
 	printDynM(dynMA, 10);
 	cout<<endl;
@@ -122,6 +123,7 @@ int main(void){
 
 
 	cout<<"Static Multiplication: "<<'\n'<<endl;
+	cout<<endl;
 	cout<<"Matrix A: "<<endl;
 	printStatM(statMA);
 	cout<<endl;
