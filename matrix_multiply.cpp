@@ -1,3 +1,14 @@
+//============================================================================
+// Name        : matrix_multiply.cpp
+// Problem     : CSC 340 Homework 7, #1
+// Author      : Devin Clary
+// Version     : 1.1
+// Copyright   : Devin Clary
+// Description : Use pointers to demonstrate matrix multiplication with 
+//				 matrices stored in dynamically allocated 2D-Arrays
+//============================================================================
+
+
 #include <iostream>
 #include <ctime>
 using namespace std;
@@ -121,12 +132,5 @@ int main(void){
 	cout<<"A*B Result: "<<endl;
 	printStatM(statResult);
 
-
-
-	// randDynM(mp);
-	// printDynM(mp);
-
-
-	
 	return 0;
 }
